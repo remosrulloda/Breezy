@@ -1,4 +1,4 @@
-# Weather Project App
+# Breezy
 Uses React JS, HTML/CSS, and OpenWeatherMap API
 
 URL: https://remorulloda-weather-app.netlify.app/
